@@ -1,1 +1,1 @@
-web: java -cp target/classes/:target/dependency/* com.sbsystems.serviciosweb
+web: java -cp target/classes:target/dependency/* com.sbsystems.serviciosweb
